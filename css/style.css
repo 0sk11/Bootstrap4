@@ -34,3 +34,10 @@ body{
 	background-color: #512DA8;
 	
 }
+.card-header-warning{
+	background-color: #FDC02F;
+	color: white;
+}
+.radio-inline,.gap{
+	padding-left: 15px;
+}
